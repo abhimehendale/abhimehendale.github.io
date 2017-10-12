@@ -62,7 +62,7 @@ section.background-gray-lightest {
   }
 }
 .img-responsive {
-  margin: 0 auto;
+  margin:auto;
 }
 .no-space .box {
   margin: 0 -15px;
@@ -228,6 +228,9 @@ ABOUT
 =====================
 
 */
+.p-size{
+    font-size: 8;
+}
 .progress-title {
   text-align: left;
   font-weight: 700;

@@ -86,6 +86,9 @@ ul li {
 .section {
 	padding: 100px 0;
 }
+.serviceSection{
+    padding: 30px 0;
+}
 .no-padding {
 	padding: 0;
 }
@@ -357,9 +360,10 @@ ul li {
 .services h5 {
 	font-size: 21px;
 	font-weight: 300;
-	margin-bottom: 10%;
+	margin-bottom: 1%;
 	text-transform: none;
 }
+
 .services p {
 	color: #6c7279;
 	font-size: 13px;
@@ -367,7 +371,10 @@ ul li {
 	margin-top: 7%;
 }
 .services-content {
-	margin: 50px;
+	margin: 40px;
+}
+.services-education{
+    margin: 10px;
 }
 .services-content li a {
 	color: #6c7279;
